@@ -41,7 +41,7 @@ When writing programs for leds, and when writing code in general, I find it quit
 
 - So, with that said, let's throw in the beginning lines of our .ino file:
 
-# Code 
+# library 
 
 ```
     #include <FastLED.h>
